@@ -35,7 +35,7 @@
 
 ### Công Nghệ Sử Dụng
 
-- Front End: **ReactJS**, **Tailwind CSS** ,**aterial UI**
+- Front End: **ReactJS**, **Tailwind CSS** ,**Material UI**
 - Back End: **NodeJS**
 - Hệ Thống Lưu Trữ Ảnh: **Cloudinary**
 - Thanh Toán Hoá Đơn: **Stripe** (Tự Động Tạo Hoá Đơn Cho Khách Hàng)
